@@ -1,6 +1,8 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ![Karen's github stats](https://github-readme-stats.vercel.app/api?username=karenetheridge&count_private=true&show_icons=true)
 
+I don't know what's up with this Holopin stuff -- it seems like a strange thing to build a company around.
+
 [![@karenetheridge's Holopin board](https://holopin.me/karenetheridge)](https://holopin.io/@karenetheridge)
 
 <!--
